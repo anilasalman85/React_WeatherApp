@@ -1,3 +1,4 @@
+Weather App
 ### **Overview**
 
 This project is a weather forecasting web application that dynamically displays real-time weather data for any city entered by the user. It fetches current weather details using the OpenWeatherMap API and presents them through a clean, user-friendly React interface.
